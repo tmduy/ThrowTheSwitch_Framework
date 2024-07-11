@@ -8,7 +8,7 @@ void RunAllAppTests(void);
 
 TEST_GROUP_RUNNER(APPLICATION)
 {
-    RUN_TEST_CASE(APPLICATION, TC_TestInterger);
+    RUN_TEST_CASE(APPLICATION, TC_TestInteger);
     RUN_TEST_CASE(APPLICATION, TC_TestString);
 }
 

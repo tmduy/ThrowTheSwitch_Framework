@@ -54,7 +54,7 @@ The test results will be displayed:
 ```bash
 duytran@duytran:~/Project/ThrowTheSwitch_Framework$ build/out 
 Unity test run 1 of 1
-.Application/app_tg1.c:31:TEST(APPLICATION, TC_TestInterger):INFO: PASSED
+.Application/app_tg1.c:31:TEST(APPLICATION, TC_TestInteger):INFO: PASSED
 .Application/app_tg1.c:37:TEST(APPLICATION, TC_TestString):INFO: PASSED
 
 
