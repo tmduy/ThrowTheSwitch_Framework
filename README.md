@@ -21,7 +21,7 @@ Clone the repository using Git:
 
 ```bash
 git clone https://github.com/tmduy/ThrowTheSwitch_Framework.git
-cd your-repository
+cd your-repository-path
 ```
 
 ### Initializing Submodules
